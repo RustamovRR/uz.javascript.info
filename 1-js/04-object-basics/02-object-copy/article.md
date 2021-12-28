@@ -1,6 +1,6 @@
 # Object references and copying
 
-One of the fundamental differences of objects versus primitives is that objects are stored and copied "by reference", whereas primitive values: strings, numbers, booleans, etc -- are always copied "as a whole value".
+One of the fundamental differences of bjects versus primitives is that objects are stored and copied "by reference", whereas primitive values: strings, numbers, booleans, etc -- are always copied "as a whole value".
 
 That's easy to understand if we look a bit under the hood of what happens when we copy a value.
 
